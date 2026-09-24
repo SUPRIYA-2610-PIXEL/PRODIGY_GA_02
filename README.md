@@ -73,3 +73,10 @@ PRODIGY_GA_02/
 │   └── experiment_5_ai_healthcare.png
 │
 └── README.md
+## ✅ Conclusion
+
+This project provided practical experience in using a pre-trained generative AI model for text-to-image generation. It demonstrated how Stable Diffusion can convert natural language prompts into AI-generated images.
+
+## 👩‍💻 Author
+
+SUPRIYA P
